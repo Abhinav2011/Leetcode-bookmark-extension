@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@500&family=Rubik&display=swap');
+
+* {
+    font-family: 'Rubik';
+}
+
+#save-article {
+    background: rgb(0, 172, 238);
+    background: linear-gradient(0deg, rgba(0, 172, 238, 1) 0%, rgba(2, 126, 251, 1) 100%);
+    width: 130px;
+    height: 40px;
+    line-height: 42px;
+    padding: 0;
+    border: none;
+}
+
+#save-article span {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: white;
+}
+
+#save-article:hover{
+    cursor:pointer;
+}
+
+#sign-in {
+    background: rgb(0, 172, 238);
+    background: linear-gradient(0deg, rgba(0, 172, 238, 1) 0%, rgba(2, 126, 251, 1) 100%);
+    width: 130px;
+    height: 40px;
+    line-height: 42px;
+    padding: 0;
+    border: none;
+}
+
+#sign-in span {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: white;
+}
+
+#sign-in:hover{
+    cursor:pointer;
+}
+
+#error-para{
+    display:none;
+}
+
+
